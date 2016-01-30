@@ -1,4 +1,6 @@
 # hello-world
-Playing with git -- technically not my first repository but this is just to test it, and practice from the command line.
+Playing with git -- technically my first repository.
 
 New change in order to test the pull request option.
+
+New edit to test the branch option.
